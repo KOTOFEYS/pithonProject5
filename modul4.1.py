@@ -1,5 +1,5 @@
-import fake_math as fm
-import true_math as tm
+from fake_math import divide as fm
+from true_math import divide as tm
 
 print(fm)
 print(tm)
